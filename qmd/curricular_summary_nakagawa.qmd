@@ -36,13 +36,13 @@ format:
 
 **Name:** Shinichi Nakagawa
 
-**ORCID (mandatory):** [https://orcid.org/[TO BE CONFIRMED BY RESEARCHER]](https://orcid.org/)
+**ORCID (mandatory):** [https://orcid.org/0000-0002-7765-5182](https://orcid.org/0000-0002-7765-5182)
 
 **Lattes Curriculum:** Not applicable (non-Brazilian researcher)
 
-**Web of Science:** [To be provided by researcher]
+**Web of Science:** [https://www.webofscience.com/wos/author/record/B-5571-2011](https://www.webofscience.com/wos/author/record/B-5571-2011)
 
-**MyCitation (Google Scholar):** [To be provided by researcher]
+**MyCitation (Google Scholar):** [https://scholar.google.com/citations?user=9-pCZzcAAAAJ&hl=en](https://scholar.google.com/citations?user=9-pCZzcAAAAJ&hl=en)
 
 ---
 
@@ -80,23 +80,23 @@ NOTHING TO DECLARE.
 
 **[1]** \*Pottier, P.; Kearney, M.R.; Wu, N.C.; Gunderson, A.R.; Rej, J.E.; Rivera-Villanueva, A.N.; \*Pollo, P.; \*Burke, S.; \*Drobniak, S.M.; **Nakagawa, S.** (2025). Vulnerability of amphibians to global warming. *Nature*, 639(8056): 954–961. *(Cover article)*
 
-**3.b)** This *Nature* cover article synthesises thermal physiology data from hundreds of amphibian species via meta-analysis to produce the most comprehensive global quantification of amphibian climate-change vulnerability to date. The findings directly inform conservation policy under climate-change scenarios and attracted wide international media coverage. It exemplifies Nakagawa's advanced evidence synthesis methods applied to a major global biodiversity challenge, with immediate policy relevance.
+**[1b]** This *Nature* cover article synthesises thermal physiology data from hundreds of amphibian species via meta-analysis to produce the most comprehensive global quantification of amphibian climate-change vulnerability to date. The findings directly inform conservation policy under climate-change scenarios and attracted wide international media coverage. It exemplifies Nakagawa's advanced evidence synthesis methods applied to a major global biodiversity challenge, with immediate policy relevance.
 
 **[2]** Yang, Y.; van Zwet, E.; Ignatiadis, N.; **Nakagawa, S.** (2024). A large-scale *in silico* replication of ecological and evolutionary studies. *Nature Ecology & Evolution*. doi:10.1038/s41559-024-02474-0.
 
-**3.b)** This paper presents the first large-scale *in silico* replication study in ecology and evolution, demonstrating that published effect sizes are systematically overestimated due to publication bias ("winner's curse"). It provides a rigorous empirical benchmark for evaluating the reliability of ecological research and is foundational to the meta-research agenda of the CERC programme, with implications for evidence-based environmental policy and conservation practice.
+**[2b]** This paper presents the first large-scale *in silico* replication study in ecology and evolution, demonstrating that published effect sizes are systematically overestimated due to publication bias ("winner's curse"). It provides a rigorous empirical benchmark for evaluating the reliability of ecological research and is foundational to the meta-research agenda of the CERC programme, with implications for evidence-based environmental policy and conservation practice.
 
 **[3]** Hua, F. et al. [47 co-authors, including **Nakagawa, S.**] (2022). The biodiversity and ecosystem service contributions and trade-offs of forest restoration approaches. *Science*, 376(6595): 839–844.
 
-**3.b)** Published in *Science*, this landmark collaborative synthesis quantifies how different forest restoration strategies affect biodiversity and ecosystem services globally. It directly informs international restoration commitments such as the Bonn Challenge (350 million hectares by 2030). The work demonstrates the capacity of rigorous large-scale evidence synthesis to generate actionable policy science at the intersection of ecology, conservation biology, and global environmental governance.
+**[3b]** Published in *Science*, this landmark collaborative synthesis quantifies how different forest restoration strategies affect biodiversity and ecosystem services globally. It directly informs international restoration commitments such as the Bonn Challenge (350 million hectares by 2030). The work demonstrates the capacity of rigorous large-scale evidence synthesis to generate actionable policy science at the intersection of ecology, conservation biology, and global environmental governance.
 
 **[4]** \*O'Dea, R.E.; \*Lagisz, M.; Jennions, M.D.; Koricheva, J.; \*Noble, D.W.A.; Parker, T.H.; Gurevitch, J.; Page, M.J.; Stewart, G.; Moher, D.; **Nakagawa, S.** (2021). Preferred reporting items for systematic reviews and meta-analyses in ecology and evolutionary biology: a PRISMA extension. *Biological Reviews*, 96(5): 1695–1722.
 
-**3.b)** This paper established PRISMA-EcoEvo, the first dedicated reporting standard for systematic reviews and meta-analyses in ecology and evolutionary biology. Now adopted as mandatory or recommended guidelines by more than 100 journals, it has fundamentally improved transparency and reproducibility in biological research synthesis. This represents a foundational open-science infrastructure contribution with lasting impact across the life sciences.
+**[4b]** This paper established PRISMA-EcoEvo, the first dedicated reporting standard for systematic reviews and meta-analyses in ecology and evolutionary biology. Now adopted as mandatory or recommended guidelines by more than 100 journals, it has fundamentally improved transparency and reproducibility in biological research synthesis. This represents a foundational open-science infrastructure contribution with lasting impact across the life sciences.
 
 **[5]** **Nakagawa, S.**; \*Lagisz, M.; \*O'Dea, R.E.; Pottier, P.; Rutkowska, J.; \*Senior, A.M.; \*Yang, Y.; \*Noble, D.W.A. (2023). orchaRd 2.0: An R package for visualising meta-analyses with orchard plots. *Methods in Ecology and Evolution*, 14(8): 2003–2010.
 
-**3.b)** orchaRd 2.0 is a freely available R package providing publication-quality visualisations for meta-analyses, now downloaded >50,000 times and widely used across ecology, evolution, and adjacent biomedical fields. By lowering barriers to rigorous evidence synthesis, it directly supports the proposed programme's goal of democratising advanced meta-analytic methods and building reusable open-science infrastructure for the international research community.
+**[5b]** orchaRd 2.0 is a freely available R package providing publication-quality visualisations for meta-analyses, now downloaded >50,000 times and widely used across ecology, evolution, and adjacent biomedical fields. By lowering barriers to rigorous evidence synthesis, it directly supports the proposed programme's goal of democratising advanced meta-analytic methods and building reusable open-science infrastructure for the international research community.
 
 *(\* = student or postdoctoral trainee in the Nakagawa laboratory)*
 
@@ -118,9 +118,9 @@ NOTHING TO DECLARE.
 
 ## 5) Academic Quantitative Indicators
 
-1. **Books:** [to be confirmed by researcher]
+1. **Books:** -
 2. **Publications in journals with selective editorial policy:** 375 (as of April 2026)
-3. **Book chapters:** [to be confirmed by researcher]
+3. **Book chapters:** -
 4. **Supervised Master's dissertations:** 4.a) ongoing: 1; 4.b) concluded: 0
 5. **Supervised Doctoral theses:** 5.a) ongoing: 6; 5.b) concluded: 6
 6. **Postdoctoral supervisions:** 6.a) ongoing: 7; 6.b) concluded: 11
