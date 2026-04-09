@@ -1,0 +1,148 @@
+---
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    geometry:
+      - left=2.5cm
+      - top=2cm
+      - right=2cm
+      - bottom=2cm
+    fontsize: 10pt
+    linestretch: 1.1
+    include-in-header:
+      text: |
+        \usepackage{helvet}
+        \renewcommand{\familydefault}{\sfdefault}
+        \usepackage{parskip}
+        \setlength{\parskip}{3pt}
+        \setlength{\parindent}{0pt}
+        \usepackage{titlesec}
+        \titleformat{\section}{\normalfont\bfseries\large}{}{0em}{}
+        \titlespacing*{\section}{0pt}{8pt}{4pt}
+        \titleformat{\subsection}{\normalfont\bfseries}{}{0em}{}
+        \titlespacing*{\subsection}{0pt}{5pt}{2pt}
+        \usepackage{booktabs}
+        \usepackage{array}
+        \usepackage{longtable}
+        \usepackage{enumitem}
+        \setlist{noitemsep, topsep=2pt, parsep=0pt, partopsep=0pt}
+    keep-tex: false
+    number-sections: false
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+**Name:** Shinichi Nakagawa
+
+**ORCID (mandatory):** [https://orcid.org/[TO BE CONFIRMED BY RESEARCHER]](https://orcid.org/)
+
+**Lattes Curriculum:** Not applicable (non-Brazilian researcher)
+
+**Web of Science:** [To be provided by researcher]
+
+**MyCitation (Google Scholar):** [To be provided by researcher]
+
+---
+
+## 1) Education/Training
+
+| Title or Activity | Start–Completion | Institution/Entity |
+|:---|:---|:---|
+| Doctor of Philosophy – Evolutionary Biology | [ca. 2002–2007] | University of Sheffield, United Kingdom |
+| Bachelor of Science (Honours) – Biology and Psychology | [ca. 1998–2002] | University of Waikato, New Zealand |
+| Postdoctoral Research Associate | 2007–2008 | Department of Animal & Plant Sciences, University of Sheffield, United Kingdom |
+
+### 1.1) Education/Training – Additional Information
+
+NOTHING TO DECLARE.
+
+---
+
+## 2) Professional/Academic Background
+
+**Main professional positions:**
+
+- **2024–present** – Canada Excellence Research Chair (CERC) in Open Science and Synthesis in Ecology and Evolution; Professor (Tenure from June 2024), Department of Biological Sciences, University of Alberta, Canada.
+- **2019–2024** – Professor of Evolutionary Ecology and Synthesis (Tenure), School of Biological, Earth and Environmental Sciences, University of New South Wales (UNSW), Australia.
+- **2008–2019** – Lecturer (2008–2010), Senior Lecturer (2011–2013), and Associate Professor (2014–2015) of Behavioural Ecology (progressively tenured), Department of Zoology, University of Otago, New Zealand; Associate Professor of Evolutionary Ecology and Synthesis (2015–2018, Tenure), UNSW, Australia.
+
+**Associative activities and scientific service:** Co-founder, Society for Open, Transparent and Reproducible Ecology and Evolutionary Biology (SORTEE); Co-founder, Association for Interdisciplinary Meta-science and Open Science (AIMOS); Founding member, Australian Reproducibility Network; Senior Editor, *Biological Reviews* (2023–2029); Editorial Board Member, *BMC Biology* (2022–2030); Co-Chair, Canadian Society for Ecology and Evolution annual meeting 2028; Admission and Award Committee, Department of Biological Sciences, University of Alberta (2024–present).
+
+**Academic distinctions and awards:** Highly Cited Researchers (Cross-Field), Clarivate Analytics, 2018–2024 (7 consecutive years, top 1% globally); NSW Premier's Prize for Excellence in Biological Sciences (2023); Fellow of the Royal Society of New South Wales – FRSN (2020); Short-listed for the Max Planck–Humboldt Research Award, 1 of 5 finalists internationally (2019); Top Reviewer (top 1%) in Biology and Biochemistry, Environment and Ecology, and Multidisciplinary Science, Clarivate Analytics (2018).
+
+---
+
+## 3) Contributions to Science (Scientific, Technological, or Innovation)
+
+**3.a) Five most relevant contributions, primarily from the last five years:**
+
+**[1]** \*Pottier, P.; Kearney, M.R.; Wu, N.C.; Gunderson, A.R.; Rej, J.E.; Rivera-Villanueva, A.N.; \*Pollo, P.; \*Burke, S.; \*Drobniak, S.M.; **Nakagawa, S.** (2025). Vulnerability of amphibians to global warming. *Nature*, 639(8056): 954–961. *(Cover article)*
+
+**3.b)** This *Nature* cover article synthesises thermal physiology data from hundreds of amphibian species via meta-analysis to produce the most comprehensive global quantification of amphibian climate-change vulnerability to date. The findings directly inform conservation policy under climate-change scenarios and attracted wide international media coverage. It exemplifies Nakagawa's advanced evidence synthesis methods applied to a major global biodiversity challenge, with immediate policy relevance.
+
+**[2]** Yang, Y.; van Zwet, E.; Ignatiadis, N.; **Nakagawa, S.** (2024). A large-scale *in silico* replication of ecological and evolutionary studies. *Nature Ecology & Evolution*. doi:10.1038/s41559-024-02474-0.
+
+**3.b)** This paper presents the first large-scale *in silico* replication study in ecology and evolution, demonstrating that published effect sizes are systematically overestimated due to publication bias ("winner's curse"). It provides a rigorous empirical benchmark for evaluating the reliability of ecological research and is foundational to the meta-research agenda of the CERC programme, with implications for evidence-based environmental policy and conservation practice.
+
+**[3]** Hua, F. et al. [47 co-authors, including **Nakagawa, S.**] (2022). The biodiversity and ecosystem service contributions and trade-offs of forest restoration approaches. *Science*, 376(6595): 839–844.
+
+**3.b)** Published in *Science*, this landmark collaborative synthesis quantifies how different forest restoration strategies affect biodiversity and ecosystem services globally. It directly informs international restoration commitments such as the Bonn Challenge (350 million hectares by 2030). The work demonstrates the capacity of rigorous large-scale evidence synthesis to generate actionable policy science at the intersection of ecology, conservation biology, and global environmental governance.
+
+**[4]** \*O'Dea, R.E.; \*Lagisz, M.; Jennions, M.D.; Koricheva, J.; \*Noble, D.W.A.; Parker, T.H.; Gurevitch, J.; Page, M.J.; Stewart, G.; Moher, D.; **Nakagawa, S.** (2021). Preferred reporting items for systematic reviews and meta-analyses in ecology and evolutionary biology: a PRISMA extension. *Biological Reviews*, 96(5): 1695–1722.
+
+**3.b)** This paper established PRISMA-EcoEvo, the first dedicated reporting standard for systematic reviews and meta-analyses in ecology and evolutionary biology. Now adopted as mandatory or recommended guidelines by more than 100 journals, it has fundamentally improved transparency and reproducibility in biological research synthesis. This represents a foundational open-science infrastructure contribution with lasting impact across the life sciences.
+
+**[5]** **Nakagawa, S.**; \*Lagisz, M.; \*O'Dea, R.E.; Pottier, P.; Rutkowska, J.; \*Senior, A.M.; \*Yang, Y.; \*Noble, D.W.A. (2023). orchaRd 2.0: An R package for visualising meta-analyses with orchard plots. *Methods in Ecology and Evolution*, 14(8): 2003–2010.
+
+**3.b)** orchaRd 2.0 is a freely available R package providing publication-quality visualisations for meta-analyses, now downloaded >50,000 times and widely used across ecology, evolution, and adjacent biomedical fields. By lowering barriers to rigorous evidence synthesis, it directly supports the proposed programme's goal of democratising advanced meta-analytic methods and building reusable open-science infrastructure for the international research community.
+
+*(\* = student or postdoctoral trainee in the Nakagawa laboratory)*
+
+---
+
+## 4) Research Funding
+
+| Period | Title | Agency | Programme | Amount |
+|:--|:--|:--|:--|--:|
+| 2024–2032 | Canada Excellence Research Chair in Open Science and Synthesis in Ecology and Evolution | NSERC (Canada) | CERC | CAD $8,000,000 |
+| 2025–2030 | Expanding the toolbox of evidence and data synthesis in ecology and evolution | NSERC (Canada) | Discovery Grant | CAD $475,000 |
+| 2020–2024 | Systematic multidisciplinary approach to define impacts, molecular mechanisms, and ways to treat PFAS exposure | NHMRC (Australia) | Targeted Call | AUD $2,347,887 |
+| 2021–2024 | Towards a balanced view of parental effects: gaps, biases and opportunities | ARC (Australia) | Discovery Project | AUD $610,441 |
+| 2015–2019 | Induced non-genetic effects on aging and fitness over multiple generations | ARC (Australia) | Future Fellowship | AUD $917,302 |
+
+*Total competitive research funding (career): >CAD $12,000,000*
+
+---
+
+## 5) Academic Quantitative Indicators
+
+1. **Books:** [to be confirmed by researcher]
+2. **Publications in journals with selective editorial policy:** 375 (as of April 2026)
+3. **Book chapters:** [to be confirmed by researcher]
+4. **Supervised Master's dissertations:** 4.a) ongoing: 1; 4.b) concluded: 0
+5. **Supervised Doctoral theses:** 5.a) ongoing: 6; 5.b) concluded: 6
+6. **Postdoctoral supervisions:** 6.a) ongoing: 7; 6.b) concluded: 11
+7. **Citations received in the international scientific literature:** [to be confirmed by researcher — Web of Science / Scopus / Google Scholar]; *note: Clarivate Highly Cited Researcher (top 1% globally, Cross-Field), 2018–2024 consecutively*
+8. **Patents:** Applied: 0; Granted: 0; Licensed: 0
+9. **Products developed and launched on the market:** NOTHING TO DECLARE
+10. **Optimised processes implemented in companies or social organisations:** NOTHING TO DECLARE
+11. **Created or supported companies:** NOTHING TO DECLARE
+12. **Relevant technical and scientific consultancy:** Meta-analysis of PFAS chemicals (Ramboll Group, 2023); Review of the scientific impact of the Atlas of Living Australia (CSIRO, 2021–2022); Evaluating Experts' IDEAs about Reproducibility and Replicability (University of Melbourne, 2019–2022).
+
+---
+
+## 6) Other Relevant Information
+
+**6.a) Recent professional context and expertise (past ten years):**
+
+Prof. Nakagawa is internationally recognised as a global leader in two complementary fields: **(1) evolutionary ecology** (behavioural ecology, life-history evolution, and eco-evolutionary dynamics) and **(2) meta-science and research synthesis** (meta-analysis methodology, open science, and reproducibility). His work has transformed quantitative evidence synthesis in the biological sciences through widely adopted reporting guidelines (PRISMA-EcoEvo), open-source software tools (orchaRd, rptR, partR2), and foundational statistical methods now used globally. Appointed Canada Excellence Research Chair (CAD $8M, 2024–2032) at the University of Alberta, his current programme establishes a Centre for Open Science and Synthesis in Ecology and Evolution, encompassing: (1) a research synthesis hub providing continuously updated evidence; (2) a meta-research hub to identify and correct biases in ecological knowledge; and (3) infrastructure for open, collaborative, AI-assisted science, including automated synthesis workflows and the first pre-registration repository for ecology and evolution. With 375 peer-reviewed articles and consistent Highly Cited Researcher status for seven consecutive years (2018–2024), he is a demonstrated leader in his fields of expertise.
+
+**6.b) International research experience and collaboration networks:**
+
+Since completing his PhD at the University of Sheffield (UK, 2007), Prof. Nakagawa has worked across four countries: United Kingdom (2007–2008), New Zealand (University of Otago, 2008–2015), Australia (UNSW Sydney, 2015–2024), and Canada (University of Alberta, 2024–present), with a visiting researcher appointment in Japan (Okinawa Institute of Science and Technology, 2023). He maintains an active international collaboration network spanning all continents and involving over 750 scientists, with co-authored publications from more than 30 countries. Key ongoing international collaborations with published results include: Prof. Holger Schielzeth (University of Jena, Germany) — foundational statistical papers, including one with >10,000 citations; Prof. John Wright (Norway) — statistical quantification of individual differences; Dr Alex Hayward (University of Exeter, UK) — cophylogenetic comparative analysis; Dr Kim Mathot (University of Alberta, Canada) — multi-modal predation risk meta-analysis (*Nature Communications*, 2024); Dr Mike Garret (University of Otago, New Zealand) — meta-analysis on the effects of castration on longevity.
+
+**6.c) Awards, prizes and honours:**
+
+Highly Cited Researchers (Cross-Field), Clarivate Analytics, 2018–2024 (7 consecutive years; top 1% globally); NSW Premier's Prize for Excellence in Biological Sciences, University of New South Wales, 2023; Fellow of the Royal Society of New South Wales (FRSN), 2020; Short-listed for the Max Planck–Humboldt Research Award (1 of 5 finalists invited to present at Max Planck Institute headquarters, Germany), 2019; Top Reviewer (top 1%) in Biology and Biochemistry, Environment and Ecology, and Multidisciplinary Science, Clarivate Analytics, 2018.
