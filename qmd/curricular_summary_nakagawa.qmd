@@ -124,7 +124,7 @@ NOTHING TO DECLARE.
 4. **Supervised Master's dissertations:** 4.a) ongoing: 1; 4.b) concluded: 0
 5. **Supervised Doctoral theses:** 5.a) ongoing: 6; 5.b) concluded: 6
 6. **Postdoctoral supervisions:** 6.a) ongoing: 7; 6.b) concluded: 11
-7. **Citations received in the international scientific literature:** [to be confirmed by researcher — Web of Science / Scopus / Google Scholar]; *note: Clarivate Highly Cited Researcher (top 1% globally, Cross-Field), 2018–2024 consecutively*
+7. **Citations received in the international scientific literature:** Web of Science = 45,315 / Google Scholar =68,508; *note: Clarivate Highly Cited Researcher (top 1% globally, Cross-Field), 2018–2024 consecutively*
 8. **Patents:** Applied: 0; Granted: 0; Licensed: 0
 9. **Products developed and launched on the market:** NOTHING TO DECLARE
 10. **Optimised processes implemented in companies or social organisations:** NOTHING TO DECLARE
